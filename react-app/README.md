@@ -29,10 +29,14 @@ Building dynamic and complex forms using react-hook-form with real-time validati
 Component Communication & State Management
 Demonstrating data flow between parent and child components using props, callback functions, Context API, and lifting state up for shared component interaction.
 Reusable UI Components
+
+
 Creating reusable and scalable components such as modals, cards, tables, navigation bars, accordions, and toast notifications with clean component architecture.
 React Hooks & Lifecycle Concepts
 Practical usage of hooks including useState, useEffect, useRef, useMemo, useCallback, and custom hooks for optimized performance and cleaner code organization.
 Routing & Navigation
+
+
 Implementing multi-page navigation using React Router with protected routes, nested routes, dynamic routing, and navigation guards.
 State Persistence & Local Storage
 Saving and retrieving application state using browser local storage and session storage for persistent user experiences.
